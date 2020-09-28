@@ -1,0 +1,527 @@
+34	https://hh.ru/vacancy/33843922	29.10.2019	30.10.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	C#
+34	https://hh.ru/vacancy/33843922	29.10.2019	30.10.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	SQL
+34	https://hh.ru/vacancy/33843922	29.10.2019	30.10.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	MS SQL
+34	https://hh.ru/vacancy/33843922	29.10.2019	30.10.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	C++
+34	https://hh.ru/vacancy/33843922	29.10.2019	30.10.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	Visual Studio C#
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	ASP.NET
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	JavaScript
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	MVC
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	C#
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	MS Visual Studio
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	jQuery
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	HTML
+35	https://hh.ru/vacancy/33855386	29.10.2019	30.10.2019	Web Разработчик (.net core)	ООО Техинлайн	Москва	125 000-145 000 руб.	.NET Framework
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	ASP.NET
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	JavaScript
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	HTML
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	CSS
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MS SQL
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MS SQL Server
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MVC
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	.NET Framework
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	C#
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MySQL
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	ReactJS
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	TypeScript
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	NET Core
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	Entity Framework
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	Английский язык
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	AWS
+39	https://hh.ru/vacancy/33880177	29.10.2019	31.10.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	react
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	MySQL
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	jQuery
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	Git
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	JavaScript
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	PHP
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	Yii
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	C#
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	C++
+36	https://hh.ru/vacancy/33902721	29.10.2019	01.11.2019	Программист	ТЕО	Москва	40 000-100 000 руб.	Нейронные сети, машинное обучение PHP PostgreeSQL Опыт работы с Yii framework Миграции Javascript jQ
+20	https://hh.ru/vacancy/33774970	29.10.2019	02.11.2019	Unity Developer Middle/Senior	Datafolks	Москва	?	Unity
+20	https://hh.ru/vacancy/33774970	29.10.2019	02.11.2019	Unity Developer Middle/Senior	Datafolks	Москва	?	WebGL
+20	https://hh.ru/vacancy/33774970	29.10.2019	02.11.2019	Unity Developer Middle/Senior	Datafolks	Москва	?	AssetBundles
+20	https://hh.ru/vacancy/33774970	29.10.2019	02.11.2019	Unity Developer Middle/Senior	Datafolks	Москва	?	SOLID
+20	https://hh.ru/vacancy/33774970	29.10.2019	02.11.2019	Unity Developer Middle/Senior	Datafolks	Москва	?	C#
+40	https://hh.ru/vacancy/33447001	29.10.2019	02.11.2019	Разработчик C++ / Unreal Engine 4	Рикор-Холдинг	Москва	?	C++
+40	https://hh.ru/vacancy/33447001	29.10.2019	02.11.2019	Разработчик C++ / Unreal Engine 4	Рикор-Холдинг	Москва	?	Perforce
+40	https://hh.ru/vacancy/33447001	29.10.2019	02.11.2019	Разработчик C++ / Unreal Engine 4	Рикор-Холдинг	Москва	?	Unreal Engine 4
+40	https://hh.ru/vacancy/33447001	29.10.2019	02.11.2019	Разработчик C++ / Unreal Engine 4	Рикор-Холдинг	Москва	?	Unreal Engine 3
+40	https://hh.ru/vacancy/33447001	29.10.2019	02.11.2019	Разработчик C++ / Unreal Engine 4	Рикор-Холдинг	Москва	?	Blueprints
+40	https://hh.ru/vacancy/33447001	29.10.2019	02.11.2019	Разработчик C++ / Unreal Engine 4	Рикор-Холдинг	Москва	?	Visual Scripting
+40	https://hh.ru/vacancy/33447001	29.10.2019	02.11.2019	Разработчик C++ / Unreal Engine 4	Рикор-Холдинг	Москва	?	Разработка компьютерных Игр
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	C#
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	ORM: NHibernate
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	SQL
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	RESTful сервисы
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	HTTP, TCP/IP
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	разработка на .Net
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	Visual Studio
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	JavaScript
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	PostgreSQL
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	RabbitMQ
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	NancyFx
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	Git
+53	https://hh.ru/vacancy/33929234	29.10.2019	02.11.2019	Серверный разработчик	ООО Картрек	Москва	80 000-120 000 руб.	AngularJS 1.4
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	MySQL
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	phpMyAdmin
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	jQuery
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Joomla CMS
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	JavaScript
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	HTML
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	HTML5
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	CSS
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	PHP5
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	CMS Wordpress
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	PHP
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	JSON API
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	SQL
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Ajax
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Apache HTTP Server
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Bootstrap
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Веб-программирование
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Создание сайтов
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	HTTP
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Magento
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Java
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	C#
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	MS SQL
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	C++
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	Python
+60	https://hh.ru/vacancy/34353846	31.10.2019	04.11.2019	Разработчик сайтов + саппорт (верстка, css3, js, html, php, boostrap, jquery, CMS)	ИП Полуместный Георгий Сергеевич	Москва	от 30 000 руб.	PostgreSQL
+22	https://hh.ru/vacancy/33944476	29.10.2019	05.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	C#
+22	https://hh.ru/vacancy/33944476	29.10.2019	05.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	.NET Framework
+22	https://hh.ru/vacancy/33944476	29.10.2019	05.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	ASP.NET
+22	https://hh.ru/vacancy/33944476	29.10.2019	05.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	MS SQL
+22	https://hh.ru/vacancy/33944476	29.10.2019	05.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	MS SQL Server
+22	https://hh.ru/vacancy/33944476	29.10.2019	05.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	MVC
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	WPF
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	ASP.NET
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	C#
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	ООП
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	MVC
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	RabbitMQ
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	Xamarin
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	Blazor
+27	https://hh.ru/vacancy/33966240	29.10.2019	06.11.2019	Стажер-программист C#	Чипизубов Максим	Москва	?	Hangfire
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	C#
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	Atlassian Jira
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	Selenium WebDriver
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	Appium
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	Регресcионное тестирование
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	Тестирование
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	Тестирование пользовательского интерфейса
+41	https://hh.ru/vacancy/33978307	29.10.2019	06.11.2019	QA-инженер	ООО Лига Спорта	Москва	60 000-85 000 руб.	Функциональное тестирование
+6	https://hh.ru/vacancy/34036912	29.10.2019	09.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	Unity
+6	https://hh.ru/vacancy/34036912	29.10.2019	09.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	C#
+6	https://hh.ru/vacancy/34036912	29.10.2019	09.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	MS Visual Studio
+6	https://hh.ru/vacancy/34036912	29.10.2019	09.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	C++
+32	https://hh.ru/vacancy/34032429	29.10.2019	09.11.2019	Разработчик .Net	Ultima BusinessWare	Москва	от 90 000 руб.	C#
+32	https://hh.ru/vacancy/34032429	29.10.2019	09.11.2019	Разработчик .Net	Ultima BusinessWare	Москва	от 90 000 руб.	LINQ
+32	https://hh.ru/vacancy/34032429	29.10.2019	09.11.2019	Разработчик .Net	Ultima BusinessWare	Москва	от 90 000 руб.	.NET Framework
+32	https://hh.ru/vacancy/34032429	29.10.2019	09.11.2019	Разработчик .Net	Ultima BusinessWare	Москва	от 90 000 руб.	SQL
+57	https://hh.ru/vacancy/34361526	31.10.2019	11.11.2019	Бэкенд-разработчик (.Net Core)	Реинжиниринг-студия Петра Кондаурова	Москва	80 000-120 000 руб.	C#
+57	https://hh.ru/vacancy/34361526	31.10.2019	11.11.2019	Бэкенд-разработчик (.Net Core)	Реинжиниринг-студия Петра Кондаурова	Москва	80 000-120 000 руб.	Entity Framework
+57	https://hh.ru/vacancy/34361526	31.10.2019	11.11.2019	Бэкенд-разработчик (.Net Core)	Реинжиниринг-студия Петра Кондаурова	Москва	80 000-120 000 руб.	.NET Framework
+57	https://hh.ru/vacancy/34361526	31.10.2019	11.11.2019	Бэкенд-разработчик (.Net Core)	Реинжиниринг-студия Петра Кондаурова	Москва	80 000-120 000 руб.	.net Core
+57	https://hh.ru/vacancy/34361526	31.10.2019	11.11.2019	Бэкенд-разработчик (.Net Core)	Реинжиниринг-студия Петра Кондаурова	Москва	80 000-120 000 руб.	PostgreSQL
+66	https://hh.ru/vacancy/34398522	04.11.2019	11.11.2019	Backend разработчик / backend developer	ООО Слайд Вижен	Москва	40 000-60 000 руб.	Node.js
+66	https://hh.ru/vacancy/34398522	04.11.2019	11.11.2019	Backend разработчик / backend developer	ООО Слайд Вижен	Москва	40 000-60 000 руб.	Git
+66	https://hh.ru/vacancy/34398522	04.11.2019	11.11.2019	Backend разработчик / backend developer	ООО Слайд Вижен	Москва	40 000-60 000 руб.	SQL
+4	https://hh.ru/vacancy/34327371	29.10.2019	12.11.2019	Senior developer (ASP.Net Core)	IT_Selection	Москва	2 500-3 500 USD	ASP.NET
+4	https://hh.ru/vacancy/34327371	29.10.2019	12.11.2019	Senior developer (ASP.Net Core)	IT_Selection	Москва	2 500-3 500 USD	C#
+4	https://hh.ru/vacancy/34327371	29.10.2019	12.11.2019	Senior developer (ASP.Net Core)	IT_Selection	Москва	2 500-3 500 USD	.NET Framework
+4	https://hh.ru/vacancy/34327371	29.10.2019	12.11.2019	Senior developer (ASP.Net Core)	IT_Selection	Москва	2 500-3 500 USD	Git
+4	https://hh.ru/vacancy/34327371	29.10.2019	12.11.2019	Senior developer (ASP.Net Core)	IT_Selection	Москва	2 500-3 500 USD	ADO.NET
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	JavaScript
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	HTML
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	CSS
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	Nginx
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	AngularJS
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	Git
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	C#
+1	https://hh.ru/vacancy/33922908	29.10.2019	13.11.2019	Frontend-разработчик	Just Food	Москва, Электрозаводская	120 000-180 000 руб.	.NET Framework
+2	https://hh.ru/vacancy/33851349	29.10.2019	13.11.2019	Full Stack Web разработчик	Just Food	Москва, Электрозаводская	?	JavaScript
+2	https://hh.ru/vacancy/33851349	29.10.2019	13.11.2019	Full Stack Web разработчик	Just Food	Москва, Электрозаводская	?	C#
+2	https://hh.ru/vacancy/33851349	29.10.2019	13.11.2019	Full Stack Web разработчик	Just Food	Москва, Электрозаводская	?	AngularJS
+2	https://hh.ru/vacancy/33851349	29.10.2019	13.11.2019	Full Stack Web разработчик	Just Food	Москва, Электрозаводская	?	MongoDB
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	WPF
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	Git
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	.NET Framework
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	Английский язык
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	C#
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	Nuget
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	Unit Testing
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	SOAP
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	Web Sockets
+3	https://hh.ru/vacancy/34263361	29.10.2019	13.11.2019	Разработчик приложений (С#)	ООО Робин	Москва	?	Prism
+5	https://hh.ru/vacancy/34319992	29.10.2019	13.11.2019	C# (.NET .NET Core) Senior / Middle developer	ООО АйТиКвик	Москва	160 000-200 000 руб.	C#
+5	https://hh.ru/vacancy/34319992	29.10.2019	13.11.2019	C# (.NET .NET Core) Senior / Middle developer	ООО АйТиКвик	Москва	160 000-200 000 руб.	.NET
+5	https://hh.ru/vacancy/34319992	29.10.2019	13.11.2019	C# (.NET .NET Core) Senior / Middle developer	ООО АйТиКвик	Москва	160 000-200 000 руб.	MongoDB
+5	https://hh.ru/vacancy/34319992	29.10.2019	13.11.2019	C# (.NET .NET Core) Senior / Middle developer	ООО АйТиКвик	Москва	160 000-200 000 руб.	Nginx
+5	https://hh.ru/vacancy/34319992	29.10.2019	13.11.2019	C# (.NET .NET Core) Senior / Middle developer	ООО АйТиКвик	Москва	160 000-200 000 руб.	Linux
+5	https://hh.ru/vacancy/34319992	29.10.2019	13.11.2019	C# (.NET .NET Core) Senior / Middle developer	ООО АйТиКвик	Москва	160 000-200 000 руб.	.NET Framework
+5	https://hh.ru/vacancy/34319992	29.10.2019	13.11.2019	C# (.NET .NET Core) Senior / Middle developer	ООО АйТиКвик	Москва	160 000-200 000 руб.	.net core
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	C#
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	Git
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	EF6
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	WPF
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	WCF
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	ASP.NET MVC
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	DI
+9	https://hh.ru/vacancy/34216307	29.10.2019	13.11.2019	Программист С#	ИП Гальченко А.И.	Москва	?	IoC
+13	https://hh.ru/vacancy/34329728	29.10.2019	13.11.2019	Unity Разработчик	Tap To Fun	Москва	?	C#
+13	https://hh.ru/vacancy/34329728	29.10.2019	13.11.2019	Unity Разработчик	Tap To Fun	Москва	?	Креативность
+13	https://hh.ru/vacancy/34329728	29.10.2019	13.11.2019	Unity Разработчик	Tap To Fun	Москва	?	Unity
+13	https://hh.ru/vacancy/34329728	29.10.2019	13.11.2019	Unity Разработчик	Tap To Fun	Москва	?	Git
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	C#
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	CSS
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	HTML
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	SPA frameworks
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	.NET Framework
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	SQL
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	MS SQL
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	Webapi
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	Typescript
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	ReactJS
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	websocket
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	JavaScript
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	ASP.NET
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	SignalR
+14	https://hh.ru/vacancy/34202218	29.10.2019	13.11.2019	Remote Senior Full-Stack Developer (C#, MS-SQL, Javascript)	TradeTheNews.com	Москва	150 000-250 000 руб.	MVC
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	C#
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	MS SQL
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	.NET Framework
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	HTML
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	ООП
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	CSS
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	XML
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	ASP.NET
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	MVC
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	jQuery
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	HTML5
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	Git
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	Atlassian Jira
+15	https://hh.ru/vacancy/34327277	29.10.2019	13.11.2019	Ведущий программист .Net / Senior .Net Developer	ООО Надёжные Сетевые Решения	Москва, Октябрьское поле	100 000-200 000 руб.	Atlassian Confluence
+16	https://hh.ru/vacancy/34265980	29.10.2019	13.11.2019	Разработчик C#	Selecty	Москва	?	MS SQL
+16	https://hh.ru/vacancy/34265980	29.10.2019	13.11.2019	Разработчик C#	Selecty	Москва	?	ASP.NET
+16	https://hh.ru/vacancy/34265980	29.10.2019	13.11.2019	Разработчик C#	Selecty	Москва	?	C#
+16	https://hh.ru/vacancy/34265980	29.10.2019	13.11.2019	Разработчик C#	Selecty	Москва	?	SQL
+16	https://hh.ru/vacancy/34265980	29.10.2019	13.11.2019	Разработчик C#	Selecty	Москва	?	Transact-SQL
+16	https://hh.ru/vacancy/34265980	29.10.2019	13.11.2019	Разработчик C#	Selecty	Москва	?	vue.js
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	C#
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	.NET 4.7
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	.NET Core 2.1/2.2
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	ASP.NET MVC
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	Entity Framework 6
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	EF Core
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	Azure Cloud technologies
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	SQL Server
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	Repository and IoC patterns
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	Angular 6/7/8
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	NGXS/NGRX
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	CSS
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	MS Visual Studio
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	GIT flow
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	Agile development
+17	https://hh.ru/vacancy/34289679	29.10.2019	13.11.2019	Senior Full-Stack Developer (Backend/Frontend)	Total One	Москва	от 3 000 EUR	Fluent English
+18	https://hh.ru/vacancy/34258847	29.10.2019	13.11.2019	TeamLead в С# / .NET команду	ООО ФармХаб	Москва	120 000-160 000 руб.	Git
+18	https://hh.ru/vacancy/34258847	29.10.2019	13.11.2019	TeamLead в С# / .NET команду	ООО ФармХаб	Москва	120 000-160 000 руб.	PostgreSQL
+18	https://hh.ru/vacancy/34258847	29.10.2019	13.11.2019	TeamLead в С# / .NET команду	ООО ФармХаб	Москва	120 000-160 000 руб.	SQL
+18	https://hh.ru/vacancy/34258847	29.10.2019	13.11.2019	TeamLead в С# / .NET команду	ООО ФармХаб	Москва	120 000-160 000 руб.	C#
+18	https://hh.ru/vacancy/34258847	29.10.2019	13.11.2019	TeamLead в С# / .NET команду	ООО ФармХаб	Москва	120 000-160 000 руб.	.NET Framework
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	C#
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	ASP.NET
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	JavaScript
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	HTML
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	CSS
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	Ajax
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	jQuery
+19	https://hh.ru/vacancy/32098683	29.10.2019	13.11.2019	Full-stack developer	Softline	Москва	?	Git
+21	https://hh.ru/vacancy/34208186	29.10.2019	13.11.2019	Программист С#	ООО Райтек	Москва	от 60 000 руб.	MS SQL
+21	https://hh.ru/vacancy/34208186	29.10.2019	13.11.2019	Программист С#	ООО Райтек	Москва	от 60 000 руб.	C#
+21	https://hh.ru/vacancy/34208186	29.10.2019	13.11.2019	Программист С#	ООО Райтек	Москва	от 60 000 руб.	.NET Framework
+21	https://hh.ru/vacancy/34208186	29.10.2019	13.11.2019	Программист С#	ООО Райтек	Москва	от 60 000 руб.	MS SQL Server
+21	https://hh.ru/vacancy/34208186	29.10.2019	13.11.2019	Программист С#	ООО Райтек	Москва	от 60 000 руб.	SQL
+25	https://hh.ru/vacancy/34297811	29.10.2019	13.11.2019	Senior Unity developer	DATA SAKURA	Москва	?	Unity
+25	https://hh.ru/vacancy/34297811	29.10.2019	13.11.2019	Senior Unity developer	DATA SAKURA	Москва	?	C/C++
+25	https://hh.ru/vacancy/34297811	29.10.2019	13.11.2019	Senior Unity developer	DATA SAKURA	Москва	?	Английский язык
+26	https://hh.ru/vacancy/33631595	29.10.2019	13.11.2019	Программист C#	ООО Кредитный отдел	Москва	?	C#
+26	https://hh.ru/vacancy/33631595	29.10.2019	13.11.2019	Программист C#	ООО Кредитный отдел	Москва	?	MS SQL
+26	https://hh.ru/vacancy/33631595	29.10.2019	13.11.2019	Программист C#	ООО Кредитный отдел	Москва	?	JavaScript
+26	https://hh.ru/vacancy/33631595	29.10.2019	13.11.2019	Программист C#	ООО Кредитный отдел	Москва	?	HTML
+26	https://hh.ru/vacancy/33631595	29.10.2019	13.11.2019	Программист C#	ООО Кредитный отдел	Москва	?	Git
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	SCALA
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	Rust
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	C
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	C#
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	F#
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	Java
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	Go
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	C++
+28	https://hh.ru/vacancy/33725293	29.10.2019	13.11.2019	Junior Back-End Developer	TR Logic LLC	Москва	от 1 000 EUR	Kotlin
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	ASP.NET
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	.NET Framework
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	C#
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	MVC
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	IIS
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	SQL
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	JavaScript
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	XML
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	MS Visual Studio
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	Git
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	React
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	Redux
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	jQuery
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	Ajax
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	HTML
+30	https://hh.ru/vacancy/34181450	29.10.2019	13.11.2019	Team Lead .NET Developer	Акелон	Москва, Автозаводская	120 000-180 000 руб.	CSS
+33	https://hh.ru/vacancy/34157541	29.10.2019	13.11.2019	Fullstack разработчик (.NET/JS)	EGAR TECHNOLOGY, INC.	Москва	?	C#
+33	https://hh.ru/vacancy/34157541	29.10.2019	13.11.2019	Fullstack разработчик (.NET/JS)	EGAR TECHNOLOGY, INC.	Москва	?	.NET Framework
+33	https://hh.ru/vacancy/34157541	29.10.2019	13.11.2019	Fullstack разработчик (.NET/JS)	EGAR TECHNOLOGY, INC.	Москва	?	ASP.NET
+33	https://hh.ru/vacancy/34157541	29.10.2019	13.11.2019	Fullstack разработчик (.NET/JS)	EGAR TECHNOLOGY, INC.	Москва	?	JavaScript
+33	https://hh.ru/vacancy/34157541	29.10.2019	13.11.2019	Fullstack разработчик (.NET/JS)	EGAR TECHNOLOGY, INC.	Москва	?	jQuery
+33	https://hh.ru/vacancy/34157541	29.10.2019	13.11.2019	Fullstack разработчик (.NET/JS)	EGAR TECHNOLOGY, INC.	Москва	?	Ajax
+33	https://hh.ru/vacancy/34157541	29.10.2019	13.11.2019	Fullstack разработчик (.NET/JS)	EGAR TECHNOLOGY, INC.	Москва	?	MySQL
+37	https://hh.ru/vacancy/33583739	29.10.2019	13.11.2019	Разработчик front-end	ГК Аплана	Москва	?	CSS
+37	https://hh.ru/vacancy/33583739	29.10.2019	13.11.2019	Разработчик front-end	ГК Аплана	Москва	?	jQuery
+37	https://hh.ru/vacancy/33583739	29.10.2019	13.11.2019	Разработчик front-end	ГК Аплана	Москва	?	AngularJS
+37	https://hh.ru/vacancy/33583739	29.10.2019	13.11.2019	Разработчик front-end	ГК Аплана	Москва	?	HTML
+37	https://hh.ru/vacancy/33583739	29.10.2019	13.11.2019	Разработчик front-end	ГК Аплана	Москва	?	CSS3
+38	https://hh.ru/vacancy/33902120	29.10.2019	13.11.2019	Unity developer	WakeApp	Москва	80 000-190 000 руб.	Unity
+38	https://hh.ru/vacancy/33902120	29.10.2019	13.11.2019	Unity developer	WakeApp	Москва	80 000-190 000 руб.	iOS
+38	https://hh.ru/vacancy/33902120	29.10.2019	13.11.2019	Unity developer	WakeApp	Москва	80 000-190 000 руб.	Android
+43	https://hh.ru/vacancy/34313940	29.10.2019	13.11.2019	Clojure Software Engineer	Urbest	Москва	?	clojure
+45	https://hh.ru/vacancy/34278735	29.10.2019	13.11.2019	Прикладной программист	Antal Russia	Москва	?	.NET Framework
+45	https://hh.ru/vacancy/34278735	29.10.2019	13.11.2019	Прикладной программист	Antal Russia	Москва	?	C#
+46	https://hh.ru/vacancy/34258550	29.10.2019	13.11.2019	Unity 2D Graphics Developer / Юнити разработчик 2d графики	ZiMAD	Москва	?	Unity
+46	https://hh.ru/vacancy/34258550	29.10.2019	13.11.2019	Unity 2D Graphics Developer / Юнити разработчик 2d графики	ZiMAD	Москва	?	C#
+46	https://hh.ru/vacancy/34258550	29.10.2019	13.11.2019	Unity 2D Graphics Developer / Юнити разработчик 2d графики	ZiMAD	Москва	?	Git
+46	https://hh.ru/vacancy/34258550	29.10.2019	13.11.2019	Unity 2D Graphics Developer / Юнити разработчик 2d графики	ZiMAD	Москва	?	C++
+46	https://hh.ru/vacancy/34258550	29.10.2019	13.11.2019	Unity 2D Graphics Developer / Юнити разработчик 2d графики	ZiMAD	Москва	?	Английский язык
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	Тестирование
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	Программирование
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	Quality Control
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	C#
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	Selenium
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	Java
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	Python
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	Cucumber
+47	https://hh.ru/vacancy/34277874	29.10.2019	13.11.2019	Тестировщик ПО (автоматизатор)	Аплана Софтвер	Москва	?	BDD
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	Java
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	SCALA
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	Kotlin
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	Go
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	Rust
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	C
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	C++
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	C#
+48	https://hh.ru/vacancy/34263470	29.10.2019	13.11.2019	Media Streaming Developer	TR Logic LLC	Москва	от 1 500 EUR	F#
+50	https://hh.ru/vacancy/34093351	29.10.2019	13.11.2019	VUE.js FrontEnd разработчик	Перспектива Консалтинг	Москва	120 000-160 000 руб.	VUE на уровне написания компонентов
+50	https://hh.ru/vacancy/34093351	29.10.2019	13.11.2019	VUE.js FrontEnd разработчик	Перспектива Консалтинг	Москва	120 000-160 000 руб.	Умение верстать через flex.
+50	https://hh.ru/vacancy/34093351	29.10.2019	13.11.2019	VUE.js FrontEnd разработчик	Перспектива Консалтинг	Москва	120 000-160 000 руб.	Умение разрабатывать юнит-тесты
+50	https://hh.ru/vacancy/34093351	29.10.2019	13.11.2019	VUE.js FrontEnd разработчик	Перспектива Консалтинг	Москва	120 000-160 000 руб.	мение комментировать код
+50	https://hh.ru/vacancy/34093351	29.10.2019	13.11.2019	VUE.js FrontEnd разработчик	Перспектива Консалтинг	Москва	120 000-160 000 руб.	leaflet.js
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	Back-End
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	Java
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	C++
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	SCALA
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	Kotlin
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	Python
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	Go
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	Rust
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	C
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	Git
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	C#
+51	https://hh.ru/vacancy/31307138	29.10.2019	13.11.2019	Back-End Developer	TR Logic LLC	Москва	от 2 000 EUR	F#
+55	https://hh.ru/vacancy/34347207	30.10.2019	13.11.2019	Computer Vision / Machine Learning Engineer	HoloMeeting	Москва	от 200 000 руб.	Computer vision
+55	https://hh.ru/vacancy/34347207	30.10.2019	13.11.2019	Computer Vision / Machine Learning Engineer	HoloMeeting	Москва	от 200 000 руб.	C++
+55	https://hh.ru/vacancy/34347207	30.10.2019	13.11.2019	Computer Vision / Machine Learning Engineer	HoloMeeting	Москва	от 200 000 руб.	Machine learning
+55	https://hh.ru/vacancy/34347207	30.10.2019	13.11.2019	Computer Vision / Machine Learning Engineer	HoloMeeting	Москва	от 200 000 руб.	Python
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	C#
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	ASP.NET
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	MVC
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	ASP.NET Core
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	Английский язык
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	Angular 2+
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	ASP.NET MVC
+56	https://hh.ru/vacancy/34346564	30.10.2019	13.11.2019	.NET Full Stack Developer (C#, ASP.NET Core/MVC, Angular)	ООО Ambaha Solutions	Москва	120 000-160 000 руб.	AngularJS
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	ASP.NET
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	C#
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	JavaScript
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	HTML
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	jQuery
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	.NET Framework
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	CSS
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	MS SQL
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	MS SQL Server
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	MVC
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	Entity Framework
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	SQL
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	LINQ
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	MS Visual Studio
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	Git
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	ООП
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	Bootstrap
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	Atlassian Jira
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	TypeScript
+58	https://hh.ru/vacancy/34360222	31.10.2019	13.11.2019	Программист ASP.NET	ООО Лига Спорта	Москва	60 000-85 000 руб.	SCSS
+59	https://hh.ru/vacancy/34355357	31.10.2019	13.11.2019	Python developer	EXANTE	Москва	от 1 500 EUR	Python
+59	https://hh.ru/vacancy/34355357	31.10.2019	13.11.2019	Python developer	EXANTE	Москва	от 1 500 EUR	SQL
+59	https://hh.ru/vacancy/34355357	31.10.2019	13.11.2019	Python developer	EXANTE	Москва	от 1 500 EUR	PostgreSQL
+59	https://hh.ru/vacancy/34355357	31.10.2019	13.11.2019	Python developer	EXANTE	Москва	от 1 500 EUR	C#
+61	https://hh.ru/vacancy/34359398	31.10.2019	13.11.2019	Senior PHP developer	ООО АРЕС	Москва	150 000-280 000 руб.	Git
+61	https://hh.ru/vacancy/34359398	31.10.2019	13.11.2019	Senior PHP developer	ООО АРЕС	Москва	150 000-280 000 руб.	PostgreSQL
+61	https://hh.ru/vacancy/34359398	31.10.2019	13.11.2019	Senior PHP developer	ООО АРЕС	Москва	150 000-280 000 руб.	Symfony
+61	https://hh.ru/vacancy/34359398	31.10.2019	13.11.2019	Senior PHP developer	ООО АРЕС	Москва	150 000-280 000 руб.	AngularJS
+61	https://hh.ru/vacancy/34359398	31.10.2019	13.11.2019	Senior PHP developer	ООО АРЕС	Москва	150 000-280 000 руб.	Java
+61	https://hh.ru/vacancy/34359398	31.10.2019	13.11.2019	Senior PHP developer	ООО АРЕС	Москва	150 000-280 000 руб.	PHP
+61	https://hh.ru/vacancy/34359398	31.10.2019	13.11.2019	Senior PHP developer	ООО АРЕС	Москва	150 000-280 000 руб.	REST API
+63	https://hh.ru/vacancy/34102435	01.11.2019	13.11.2019	Senior React Developer	ЕАЕ-Консалт	Москва	от 90 000 руб.	JavaScript
+63	https://hh.ru/vacancy/34102435	01.11.2019	13.11.2019	Senior React Developer	ЕАЕ-Консалт	Москва	от 90 000 руб.	HTML5
+63	https://hh.ru/vacancy/34102435	01.11.2019	13.11.2019	Senior React Developer	ЕАЕ-Консалт	Москва	от 90 000 руб.	CSS3
+63	https://hh.ru/vacancy/34102435	01.11.2019	13.11.2019	Senior React Developer	ЕАЕ-Консалт	Москва	от 90 000 руб.	Git
+63	https://hh.ru/vacancy/34102435	01.11.2019	13.11.2019	Senior React Developer	ЕАЕ-Консалт	Москва	от 90 000 руб.	C#
+63	https://hh.ru/vacancy/34102435	01.11.2019	13.11.2019	Senior React Developer	ЕАЕ-Консалт	Москва	от 90 000 руб.	SQL
+63	https://hh.ru/vacancy/34102435	01.11.2019	13.11.2019	Senior React Developer	ЕАЕ-Консалт	Москва	от 90 000 руб.	React
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	ASP.NET
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	JavaScript
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	HTML
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	CSS
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MS SQL
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MS SQL Server
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MVC
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	.NET Framework
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	C#
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	MySQL
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	ReactJS
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	TypeScript
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	NET Core
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	Entity Framework
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	Английский язык
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	AWS
+65	https://hh.ru/vacancy/34389198	02.11.2019	13.11.2019	Senior Full-stack Developer (.NET/React)	ООО ClearScale	Москва	?	react
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	JavaScript
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	MVC
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	C#
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	MS Visual Studio
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	HTML
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	.NET Framework
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	.net
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	.netcore
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	Angular
+67	https://hh.ru/vacancy/34406110	05.11.2019	13.11.2019	Web Разработчик (angular +.net core)	ООО Техинлайн	Москва	100 000-130 000 руб.	CSS
+68	https://hh.ru/vacancy/34425486	06.11.2019	13.11.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	C#
+68	https://hh.ru/vacancy/34425486	06.11.2019	13.11.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	SQL
+68	https://hh.ru/vacancy/34425486	06.11.2019	13.11.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	MS SQL
+68	https://hh.ru/vacancy/34425486	06.11.2019	13.11.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	C++
+68	https://hh.ru/vacancy/34425486	06.11.2019	13.11.2019	.NET C# разработчик	ecomsolutions	Москва	от 3 000 USD	Visual Studio C#
+69	https://hh.ru/vacancy/34444682	06.11.2019	13.11.2019	Разработчик С#	ООО Центр внедрения документооборота	Москва	80 000-80 000 руб.	C#
+69	https://hh.ru/vacancy/34444682	06.11.2019	13.11.2019	Разработчик С#	ООО Центр внедрения документооборота	Москва	80 000-80 000 руб.	MS SQL Server
+69	https://hh.ru/vacancy/34444682	06.11.2019	13.11.2019	Разработчик С#	ООО Центр внедрения документооборота	Москва	80 000-80 000 руб.	Git
+69	https://hh.ru/vacancy/34444682	06.11.2019	13.11.2019	Разработчик С#	ООО Центр внедрения документооборота	Москва	80 000-80 000 руб.	MS Visual Studio
+69	https://hh.ru/vacancy/34444682	06.11.2019	13.11.2019	Разработчик С#	ООО Центр внедрения документооборота	Москва	80 000-80 000 руб.	PostgreSQL
+70	https://hh.ru/vacancy/34436522	06.11.2019	13.11.2019	Разработчик Unity 3D	Another Sports Game (ИП Насонова Дарья Петровна)	Москва	от 60 000 руб.	Unity
+70	https://hh.ru/vacancy/34436522	06.11.2019	13.11.2019	Разработчик Unity 3D	Another Sports Game (ИП Насонова Дарья Петровна)	Москва	от 60 000 руб.	Visual Studio C#
+71	https://hh.ru/vacancy/34433741	06.11.2019	13.11.2019	Frontend-разработчик	Центр компьютерного обучения СПЕЦИАЛИСТ при МГТУ им. Н.Э.Баумана	Москва, Бауманская	80 000-100 000 руб.	jQuery
+71	https://hh.ru/vacancy/34433741	06.11.2019	13.11.2019	Frontend-разработчик	Центр компьютерного обучения СПЕЦИАЛИСТ при МГТУ им. Н.Э.Баумана	Москва, Бауманская	80 000-100 000 руб.	HTML5
+71	https://hh.ru/vacancy/34433741	06.11.2019	13.11.2019	Frontend-разработчик	Центр компьютерного обучения СПЕЦИАЛИСТ при МГТУ им. Н.Э.Баумана	Москва, Бауманская	80 000-100 000 руб.	CSS3
+71	https://hh.ru/vacancy/34433741	06.11.2019	13.11.2019	Frontend-разработчик	Центр компьютерного обучения СПЕЦИАЛИСТ при МГТУ им. Н.Э.Баумана	Москва, Бауманская	80 000-100 000 руб.	CSS
+71	https://hh.ru/vacancy/34433741	06.11.2019	13.11.2019	Frontend-разработчик	Центр компьютерного обучения СПЕЦИАЛИСТ при МГТУ им. Н.Э.Баумана	Москва, Бауманская	80 000-100 000 руб.	Git
+72	https://hh.ru/vacancy/34440477	06.11.2019	13.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	C#
+72	https://hh.ru/vacancy/34440477	06.11.2019	13.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	.NET Framework
+72	https://hh.ru/vacancy/34440477	06.11.2019	13.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	ASP.NET
+72	https://hh.ru/vacancy/34440477	06.11.2019	13.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	MS SQL
+72	https://hh.ru/vacancy/34440477	06.11.2019	13.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	MS SQL Server
+72	https://hh.ru/vacancy/34440477	06.11.2019	13.11.2019	Middle/Senior .NET SDE	Akvelon	Москва	?	MVC
+73	https://hh.ru/vacancy/34438415	06.11.2019	13.11.2019	Разработчик (конвертеры, парсинг сайтов)	AWATERA	Москва	?	Joomla CMS
+73	https://hh.ru/vacancy/34438415	06.11.2019	13.11.2019	Разработчик (конвертеры, парсинг сайтов)	AWATERA	Москва	?	HTML
+73	https://hh.ru/vacancy/34438415	06.11.2019	13.11.2019	Разработчик (конвертеры, парсинг сайтов)	AWATERA	Москва	?	Java
+73	https://hh.ru/vacancy/34438415	06.11.2019	13.11.2019	Разработчик (конвертеры, парсинг сайтов)	AWATERA	Москва	?	CSS
+74	https://hh.ru/vacancy/34445772	07.11.2019	13.11.2019	Junior C# Developer	ООО Магазин Путешествий Онлайн	Москва	50 000-70 000 руб.	C#
+74	https://hh.ru/vacancy/34445772	07.11.2019	13.11.2019	Junior C# Developer	ООО Магазин Путешествий Онлайн	Москва	50 000-70 000 руб.	Работа с базами данных
+74	https://hh.ru/vacancy/34445772	07.11.2019	13.11.2019	Junior C# Developer	ООО Магазин Путешествий Онлайн	Москва	50 000-70 000 руб.	ASP.NET
+74	https://hh.ru/vacancy/34445772	07.11.2019	13.11.2019	Junior C# Developer	ООО Магазин Путешествий Онлайн	Москва	50 000-70 000 руб.	JavaScript
+74	https://hh.ru/vacancy/34445772	07.11.2019	13.11.2019	Junior C# Developer	ООО Магазин Путешествий Онлайн	Москва	50 000-70 000 руб.	Entity Framework
+74	https://hh.ru/vacancy/34445772	07.11.2019	13.11.2019	Junior C# Developer	ООО Магазин Путешествий Онлайн	Москва	50 000-70 000 руб.	AngularJS
+75	https://hh.ru/vacancy/34449805	07.11.2019	13.11.2019	Старший бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	Atlassian Jira
+75	https://hh.ru/vacancy/34449805	07.11.2019	13.11.2019	Старший бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	SQL
+75	https://hh.ru/vacancy/34449805	07.11.2019	13.11.2019	Старший бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	MS SQL
+75	https://hh.ru/vacancy/34449805	07.11.2019	13.11.2019	Старший бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	C#
+75	https://hh.ru/vacancy/34449805	07.11.2019	13.11.2019	Старший бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	ASP.NET
+76	https://hh.ru/vacancy/34449880	07.11.2019	13.11.2019	Ведущий бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	Atlassian Jira
+76	https://hh.ru/vacancy/34449880	07.11.2019	13.11.2019	Ведущий бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	SQL
+76	https://hh.ru/vacancy/34449880	07.11.2019	13.11.2019	Ведущий бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	MS SQL
+76	https://hh.ru/vacancy/34449880	07.11.2019	13.11.2019	Ведущий бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	C#
+76	https://hh.ru/vacancy/34449880	07.11.2019	13.11.2019	Ведущий бэкенд разработчик (Backend Developer С# /.NET Core)	TUI Russia & CIS	Москва	?	ASP.NET
+77	https://hh.ru/vacancy/34468966	08.11.2019	13.11.2019	Fullstack стажер-разработчик (C#, React, MSSQL)	Mindbox	Москва, Белорусская и еще 1	25 000-25 000 руб.	C#
+77	https://hh.ru/vacancy/34468966	08.11.2019	13.11.2019	Fullstack стажер-разработчик (C#, React, MSSQL)	Mindbox	Москва, Белорусская и еще 1	25 000-25 000 руб.	ООП
+77	https://hh.ru/vacancy/34468966	08.11.2019	13.11.2019	Fullstack стажер-разработчик (C#, React, MSSQL)	Mindbox	Москва, Белорусская и еще 1	25 000-25 000 руб.	.NET Framework
+77	https://hh.ru/vacancy/34468966	08.11.2019	13.11.2019	Fullstack стажер-разработчик (C#, React, MSSQL)	Mindbox	Москва, Белорусская и еще 1	25 000-25 000 руб.	React
+77	https://hh.ru/vacancy/34468966	08.11.2019	13.11.2019	Fullstack стажер-разработчик (C#, React, MSSQL)	Mindbox	Москва, Белорусская и еще 1	25 000-25 000 руб.	SQL
+78	https://hh.ru/vacancy/34476574	08.11.2019	13.11.2019	Middle Backend Developer (С#)	АО ИНКОМА	Москва	до 200 000 руб.	C#
+78	https://hh.ru/vacancy/34476574	08.11.2019	13.11.2019	Middle Backend Developer (С#)	АО ИНКОМА	Москва	до 200 000 руб.	SQL
+78	https://hh.ru/vacancy/34476574	08.11.2019	13.11.2019	Middle Backend Developer (С#)	АО ИНКОМА	Москва	до 200 000 руб.	Web API
+78	https://hh.ru/vacancy/34476574	08.11.2019	13.11.2019	Middle Backend Developer (С#)	АО ИНКОМА	Москва	до 200 000 руб.	.NET Framework
+78	https://hh.ru/vacancy/34476574	08.11.2019	13.11.2019	Middle Backend Developer (С#)	АО ИНКОМА	Москва	до 200 000 руб.	Core 2+
+78	https://hh.ru/vacancy/34476574	08.11.2019	13.11.2019	Middle Backend Developer (С#)	АО ИНКОМА	Москва	до 200 000 руб.	Angular 7+
+78	https://hh.ru/vacancy/34476574	08.11.2019	13.11.2019	Middle Backend Developer (С#)	АО ИНКОМА	Москва	до 200 000 руб.	Microsoft Dynamics CRM 2011+
+79	https://hh.ru/vacancy/34424922	08.11.2019	13.11.2019	Ведущий разработчик С++ распознавание образов	ООО Новые Технологии Программирования	Москва	150 000-220 000 руб.	Python
+79	https://hh.ru/vacancy/34424922	08.11.2019	13.11.2019	Ведущий разработчик С++ распознавание образов	ООО Новые Технологии Программирования	Москва	150 000-220 000 руб.	Linux
+79	https://hh.ru/vacancy/34424922	08.11.2019	13.11.2019	Ведущий разработчик С++ распознавание образов	ООО Новые Технологии Программирования	Москва	150 000-220 000 руб.	C#
+79	https://hh.ru/vacancy/34424922	08.11.2019	13.11.2019	Ведущий разработчик С++ распознавание образов	ООО Новые Технологии Программирования	Москва	150 000-220 000 руб.	SQL
+79	https://hh.ru/vacancy/34424922	08.11.2019	13.11.2019	Ведущий разработчик С++ распознавание образов	ООО Новые Технологии Программирования	Москва	150 000-220 000 руб.	.NET Framework
+79	https://hh.ru/vacancy/34424922	08.11.2019	13.11.2019	Ведущий разработчик С++ распознавание образов	ООО Новые Технологии Программирования	Москва	150 000-220 000 руб.	C++
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	JavaScript
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	Node.js
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	MySQL
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	MS SQL
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	PHP
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	cloud based service
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	C#
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	C# .NET
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	cloud based portal
+80	https://hh.ru/vacancy/34360854	09.11.2019	13.11.2019	Разработчик мобильных приложений с опытом работы C#, /веб-разработчик	Юниверс, компания	Москва	?	cross platform
+81	https://hh.ru/vacancy/34508068	11.11.2019	13.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	Unity
+81	https://hh.ru/vacancy/34508068	11.11.2019	13.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	C#
+81	https://hh.ru/vacancy/34508068	11.11.2019	13.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	MS Visual Studio
+81	https://hh.ru/vacancy/34508068	11.11.2019	13.11.2019	Middle Game Developer (Unity3d) / Разработчик игр на Unity3d	CarX Technologies	Москва	120 000-150 000 руб.	C++
+83	https://hh.ru/vacancy/34493445	11.11.2019	13.11.2019	Программист на С++	Flooservice	Москва	30 000-45 000 руб.	C#
+83	https://hh.ru/vacancy/34493445	11.11.2019	13.11.2019	Программист на С++	Flooservice	Москва	30 000-45 000 руб.	C++
+84	https://hh.ru/vacancy/34511736	11.11.2019	13.11.2019	Frontend разработчик (Angular, удаленно)	АйТи Гео, ООО (IT GEO)	Москва, Бауманская	до 150 000 руб.	HTML5
+84	https://hh.ru/vacancy/34511736	11.11.2019	13.11.2019	Frontend разработчик (Angular, удаленно)	АйТи Гео, ООО (IT GEO)	Москва, Бауманская	до 150 000 руб.	CSS3
+84	https://hh.ru/vacancy/34511736	11.11.2019	13.11.2019	Frontend разработчик (Angular, удаленно)	АйТи Гео, ООО (IT GEO)	Москва, Бауманская	до 150 000 руб.	JavaScript
+84	https://hh.ru/vacancy/34511736	11.11.2019	13.11.2019	Frontend разработчик (Angular, удаленно)	АйТи Гео, ООО (IT GEO)	Москва, Бауманская	до 150 000 руб.	AngularJS
+85	https://hh.ru/vacancy/34515118	12.11.2019	13.11.2019	Web-разработчик	ООО Диджитал медикэл оперейшнс	Москва	87 000-87 000 руб.	jQuery
+85	https://hh.ru/vacancy/34515118	12.11.2019	13.11.2019	Web-разработчик	ООО Диджитал медикэл оперейшнс	Москва	87 000-87 000 руб.	JavaScript
+85	https://hh.ru/vacancy/34515118	12.11.2019	13.11.2019	Web-разработчик	ООО Диджитал медикэл оперейшнс	Москва	87 000-87 000 руб.	Bootstrap
+85	https://hh.ru/vacancy/34515118	12.11.2019	13.11.2019	Web-разработчик	ООО Диджитал медикэл оперейшнс	Москва	87 000-87 000 руб.	HTML5
+86	https://hh.ru/vacancy/34518846	12.11.2019	13.11.2019	Xamarin разработчик	Новый Сайт	Москва	2 000-3 000 USD	xamarin
+86	https://hh.ru/vacancy/34518846	12.11.2019	13.11.2019	Xamarin разработчик	Новый Сайт	Москва	2 000-3 000 USD	iOS
+86	https://hh.ru/vacancy/34518846	12.11.2019	13.11.2019	Xamarin разработчик	Новый Сайт	Москва	2 000-3 000 USD	Android
+86	https://hh.ru/vacancy/34518846	12.11.2019	13.11.2019	Xamarin разработчик	Новый Сайт	Москва	2 000-3 000 USD	C#
+86	https://hh.ru/vacancy/34518846	12.11.2019	13.11.2019	Xamarin разработчик	Новый Сайт	Москва	2 000-3 000 USD	Git
+86	https://hh.ru/vacancy/34518846	12.11.2019	13.11.2019	Xamarin разработчик	Новый Сайт	Москва	2 000-3 000 USD	HTTP
+87	https://hh.ru/vacancy/34382519	12.11.2019	13.11.2019	Программист-аналитик (MSSQL)	ООО Инвентор Софт	Москва	80 000-100 000 руб.	MS SQL
+87	https://hh.ru/vacancy/34382519	12.11.2019	13.11.2019	Программист-аналитик (MSSQL)	ООО Инвентор Софт	Москва	80 000-100 000 руб.	SQL
+87	https://hh.ru/vacancy/34382519	12.11.2019	13.11.2019	Программист-аналитик (MSSQL)	ООО Инвентор Софт	Москва	80 000-100 000 руб.	MS SQL Server
+87	https://hh.ru/vacancy/34382519	12.11.2019	13.11.2019	Программист-аналитик (MSSQL)	ООО Инвентор Софт	Москва	80 000-100 000 руб.	MS Excel
+87	https://hh.ru/vacancy/34382519	12.11.2019	13.11.2019	Программист-аналитик (MSSQL)	ООО Инвентор Софт	Москва	80 000-100 000 руб.	MS Word
+87	https://hh.ru/vacancy/34382519	12.11.2019	13.11.2019	Программист-аналитик (MSSQL)	ООО Инвентор Софт	Москва	80 000-100 000 руб.	Internet
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	C#
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	.Net Core
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	docker
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	.NET Framework
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	Unit Testing
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	ORM
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	SQL
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	Git
+89	https://hh.ru/vacancy/34536553	13.11.2019	13.11.2019	.Net developer	ООО Hawk House Integration	Москва, Дмитровская	от 150 000 руб.	СУБД
+90	https://hh.ru/vacancy/34544676	13.11.2019	13.11.2019	.Net разработчик	ЛАНИТ-ТЕХНОЛОГИИ	Москва	?	Transact-SQL
+90	https://hh.ru/vacancy/34544676	13.11.2019	13.11.2019	.Net разработчик	ЛАНИТ-ТЕХНОЛОГИИ	Москва	?	.NET Framework
+90	https://hh.ru/vacancy/34544676	13.11.2019	13.11.2019	.Net разработчик	ЛАНИТ-ТЕХНОЛОГИИ	Москва	?	C#
+90	https://hh.ru/vacancy/34544676	13.11.2019	13.11.2019	.Net разработчик	ЛАНИТ-ТЕХНОЛОГИИ	Москва	?	MS SQL Server
+91	https://hh.ru/vacancy/34546123	13.11.2019	13.11.2019	Ux/Ui Дизайнер / Designer	ООО МедРегЭксперт	Москва	от 140 000 руб.	Adobe Illustrator
+91	https://hh.ru/vacancy/34546123	13.11.2019	13.11.2019	Ux/Ui Дизайнер / Designer	ООО МедРегЭксперт	Москва	от 140 000 руб.	Adobe Photoshop
+91	https://hh.ru/vacancy/34546123	13.11.2019	13.11.2019	Ux/Ui Дизайнер / Designer	ООО МедРегЭксперт	Москва	от 140 000 руб.	UX
+91	https://hh.ru/vacancy/34546123	13.11.2019	13.11.2019	Ux/Ui Дизайнер / Designer	ООО МедРегЭксперт	Москва	от 140 000 руб.	iOS
+91	https://hh.ru/vacancy/34546123	13.11.2019	13.11.2019	Ux/Ui Дизайнер / Designer	ООО МедРегЭксперт	Москва	от 140 000 руб.	Android

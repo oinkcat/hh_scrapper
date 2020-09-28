@@ -1,0 +1,90 @@
+body {
+    font-family: Verdana, Tahoma;
+    font-size: 12pt;
+}
+
+a {
+    color: #0094ff;
+}
+
+    a:visited {
+        color: gray;
+    }
+
+.body-content {
+    width: 1100px;
+    margin: auto;
+}
+
+.align-right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+/* Filters block */
+.filters-block {
+    height: 48px;
+    border-bottom: #0094ff 2px solid;
+}
+
+    .filters-block ul {
+        padding-left: 0px;
+    }
+
+        .filters-block ul > li {
+            list-style: none;
+            float: left;
+        }
+
+            .filters-block ul > li > label > input {
+                display: none;
+            }
+
+                .filters-block ul > li > label > input ~ span {
+                    line-height: 48px;
+                    padding: 15px 10px;
+                    cursor: pointer;
+                    border-top-left-radius: 10px;
+                    border-top-right-radius: 10px;
+                }
+
+                .filters-block ul > li > label > input:checked ~ span {
+                    background-color: #0094ff;
+                    color: white;
+                }
+
+/* Vacancy information block */
+.vacancy-item {
+    margin-bottom: 4px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 15px;
+}
+
+    .vacancy-item.inactive {
+        color: gray;
+    }
+
+        .vacancy-item.inactive a {
+            color: lightgray;
+        }
+
+    .vacancy-item .tag-list {
+        padding-left: 0px;
+        font-size: smaller;
+    }
+
+        .vacancy-item .tag-list > li {
+            float: left;
+            margin: 0px 4px 4px 0px;
+            list-style-type: none;
+            background-color: #0094ff;
+            color: white;
+            padding: 4px;
+        }
+
+    .vacancy-item.inactive .tag-list > li {
+        background-color: lightgray;
+    }

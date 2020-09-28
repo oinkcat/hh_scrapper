@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "ClientApp/src/App.js",
+    "inputFile": "ClientApp/src/App.jsx"
+  },
+  {
+    "outputFile": "ClientApp/src/index_test.css",
+    "inputFile": "ClientApp/src/index_test.scss"
+  },
+  {
+    "outputFile": "ClientApp/src/index.css",
+    "inputFile": "ClientApp/src/index.scss"
+  }
+]

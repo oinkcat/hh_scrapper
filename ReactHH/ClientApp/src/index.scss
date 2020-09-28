@@ -1,0 +1,135 @@
+﻿$text-color: #0094ff;
+$tab-color: #57a8e3;
+$tags-color: lighten($tab-color, 10%);
+
+body {
+    font-family: Verdana, Tahoma;
+    font-size: 12pt;
+}
+
+a {
+    color: $text-color;
+
+    &:visited {
+        color: gray;
+    }
+}
+
+.body-content {
+    width: 1100px;
+    margin: auto;
+}
+
+.align-right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+/* Filters block */
+.filters-block {
+    height: 48px;
+    border-bottom: $tab-color 2px solid;
+
+    ul {
+        padding-left: 0px;
+
+        li {
+            list-style: none;
+            float: left;
+
+            label > input {
+                display: none;
+
+                & ~ span {
+                    line-height: 48px;
+                    padding: 15px 10px;
+                    cursor: pointer;
+                    border-top-left-radius: 10px;
+                    border-top-right-radius: 10px;
+                }
+
+                &:checked ~ span {
+                    background-color: $tab-color;
+                    color: white;
+                }
+            }
+        }
+    }
+}
+
+/* Off-line local data fallback indicator */
+.fall-back {
+    float: right;
+    color: red;
+    font-size: smaller;
+    line-height: 48px;
+}
+
+/* Vacancy information block */
+.vacancy-item {
+    margin-bottom: 4px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 15px;
+
+    a {
+        font-size: larger;
+    }
+
+    &.inactive {
+        color: gray;
+
+        a {
+            color: lightgray;
+        }
+
+        & .tag-list > li {
+            background-color: lightgray;
+        }
+    }
+
+    .close-days {
+        font-size: smaller;
+        margin-top: 10px;
+    }
+
+    .tag-list {
+        padding-left: 0px;
+        font-size: smaller;
+
+        & > li {
+            float: left;
+            margin: 0px 4px 4px 0px;
+            list-style-type: none;
+            background-color: $tags-color;
+            color: white;
+            padding: 4px;
+        }
+    }
+}
+
+/* Scroll-To-Top */
+.top-scroller {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18pt;
+    box-shadow: silver 0px 0px 4px;
+    background-color: $tab-color;
+    color: white;
+
+    cursor: pointer;
+    display: none;
+
+    &.visible {
+        display: block;
+    }
+}
