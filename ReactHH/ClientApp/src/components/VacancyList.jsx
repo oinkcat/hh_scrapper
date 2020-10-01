@@ -1,5 +1,6 @@
 ﻿import React from 'react';
 import { Vacancy } from './Vacancy';
+import { Loader } from './Loader';
 
 export class VacancyList extends React.Component {
 
@@ -24,14 +25,7 @@ export class VacancyList extends React.Component {
     }
 
     renderLoader() {
-        return (
-            <div className="loader">
-                <div className="icon">
-                    hh.ru
-                </div>
-                <span>Loading data...</span>
-            </div>
-        );
+        return <Loader />
     }
 
     renderList() {
