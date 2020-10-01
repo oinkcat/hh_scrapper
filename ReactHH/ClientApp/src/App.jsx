@@ -12,7 +12,7 @@ export default class App extends React.Component {
             error: null,
             list: [],
             isFallback: false,
-            filterMode: 0
+            filterMode: Filters.FILTERS_MODE_ACTIVE
         };
     }
 

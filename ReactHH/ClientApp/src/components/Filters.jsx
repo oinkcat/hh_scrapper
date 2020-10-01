@@ -2,6 +2,10 @@
 
 export class Filters extends React.Component {
 
+    static FILTERS_MODE_ALL = 0;
+    static FILTERS_MODE_ACTIVE = 1;
+    static FILTERS_MODE_INACTIVE = 2;
+
     static getDerivedStateFromProps(props, state) {
         return { stats: [0, 0, 0] };
     }
@@ -11,7 +15,7 @@ export class Filters extends React.Component {
 
         this.state = {
             initialized: false,
-            mode: 0,
+            mode: Filters.FILTERS_MODE_ACTIVE,
             stats: [0, 0, 0]
         };
     }

@@ -24,7 +24,14 @@ export class VacancyList extends React.Component {
     }
 
     renderLoader() {
-        return <h4>Loading...</h4>;
+        return (
+            <div className="loader">
+                <div className="icon">
+                    hh.ru
+                </div>
+                <span>Loading data...</span>
+            </div>
+        );
     }
 
     renderList() {

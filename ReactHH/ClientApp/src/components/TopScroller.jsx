@@ -38,7 +38,7 @@ export class TopScroller extends React.Component {
             <div title="Scroll to top"
                 onClick={this.scrollToTop}
                 className={className}>
-                ^
+                &uarr;
             </div>
         );
     }

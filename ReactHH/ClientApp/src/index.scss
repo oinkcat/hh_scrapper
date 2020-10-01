@@ -2,6 +2,16 @@
 $tab-color: #57a8e3;
 $tags-color: lighten($tab-color, 10%);
 
+@keyframes loader-anim {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    80% {
+        transform: rotate(360deg);
+    }
+}
+
 body {
     font-family: Verdana, Tahoma;
     font-size: 12pt;
@@ -26,6 +36,30 @@ a {
 
 .clear {
     clear: both;
+}
+
+/* Loader */
+.loader {
+    margin-top: 50px;
+    text-align: center;
+
+    .icon {
+        animation: loader-anim;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+        width: 50px;
+        height: 50px;
+        border-radius: 30px;
+        background-color: $tab-color;
+        color: white;
+        line-height: 50px;
+        margin: auto;
+    }
+
+    span {
+        display: block;
+        margin-top: 20px;
+    }
 }
 
 /* Filters block */
