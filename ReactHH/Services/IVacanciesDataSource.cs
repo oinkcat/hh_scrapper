@@ -18,6 +18,6 @@ namespace ReactHH.Services
         /// Retreive vacancies list
         /// </summary>
         /// <returns>Table data</returns>
-        Task<List<string[]>> GetSourceData();
+        Task<IList<string[]>> GetSourceData();
     }
 }

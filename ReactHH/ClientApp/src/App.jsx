@@ -11,15 +11,15 @@ export default class App extends React.Component {
         this.state = {
             error: null,
             list: [],
-            isFallback: false,
+            isOfflineData: false,
             filterMode: Filters.FILTERS_MODE_ACTIVE
         };
     }
 
-    vacanciesLoaded(vacanciesList, isLocalFallback) {
+    vacanciesLoaded(vacanciesList, isOffline) {
         this.setState({
             list: vacanciesList,
-            isFallback: isLocalFallback
+            isOfflineData: isOffline
         });
     }
 
@@ -36,7 +36,7 @@ export default class App extends React.Component {
             <React.Fragment>
                 <Filters
                     list={this.state.list}
-                    localFallback={this.state.isFallback}
+                    localFallback={this.state.isOfflineData}
                     onModeChanged={this.filterModeChanged.bind(this)}
                 />
                 <VacancyList

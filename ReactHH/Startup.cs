@@ -5,11 +5,15 @@ using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ReactHH.Models;
+using ReactHH.Services;
 
 namespace ReactHH
 {
     public class Startup
     {
+        private const string ConfigFileName = "sources.json";
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -26,6 +30,13 @@ namespace ReactHH
             {
                 configuration.RootPath = "ClientApp/build";
             });
+
+            services.AddTransient<VacanciesDataLoader>();
+
+            var dataSourcesConf = new ConfigurationBuilder()
+                .AddJsonFile(ConfigFileName, false, true)
+                .Build();
+            services.Configure<SourcesConfig>(dataSourcesConf);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

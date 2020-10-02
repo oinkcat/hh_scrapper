@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Options;
 using ReactHH.Models;
 
 namespace ReactHH.Services
@@ -12,26 +14,72 @@ namespace ReactHH.Services
     /// </summary>
     public class VacanciesDataLoader
     {
-        private IVacanciesDataSource dataSource;
+        private IWebHostEnvironment env;
+
+        private IOptions<SourcesConfig> sourceOpts;
+
+        private LocalFileSource cacheSource;
+
+        /// <summary>
+        /// Is currently offline
+        /// </summary>
+        public bool IsOffline { get; private set; }
+
+        /// <summary>
+        /// Last data loaded time
+        /// </summary>
+        public DateTime LastFetchDate { get; private set; }
 
         /// <summary>
         /// Load vacancies from source file
         /// </summary>
         /// <returns>List of loaded vacancies</returns>
-        public async Task<List<Vacancy>> LoadAsync()
+        public async Task<IList<Vacancy>> LoadAsync()
         {
-            var csvInfo = await dataSource.GetSourceData();
+            var vacanciesCsvData = await LoadVacanciesCsv();
 
-            var loadedVacancies = new List<Vacancy>();
-            var fetchDate = dataSource.FetchDate;
-
-            while(csvInfo.Count > 0)
+            if(!IsOffline)
             {
-                var vacancyInfo = Vacancy.CreateFromCsv(csvInfo, fetchDate);
+                await cacheSource.UpdateCache(vacanciesCsvData);
+            }
 
-                if(vacancyInfo != null)
+            return ParseVacanciesCsv(vacanciesCsvData);
+        }
+
+        // Load raw vacancies data
+        private async Task<IList<string[]>> LoadVacanciesCsv()
+        {
+            var vacanciesCsv = new List<string[]>();
+
+            try
+            {
+                var listUri = new Uri(sourceOpts.Value.DataListUrl);
+                var remoteSource = new WebDataSource(listUri);
+                vacanciesCsv.AddRange(await remoteSource.GetSourceData());
+                LastFetchDate = remoteSource.FetchDate;
+            }
+            catch
+            {
+                vacanciesCsv.AddRange(await cacheSource.GetSourceData());
+                LastFetchDate = cacheSource.FetchDate;
+                IsOffline = true;
+            }
+
+            return vacanciesCsv;
+        }
+
+        // Parse vacancy data fields
+        private IList<Vacancy> ParseVacanciesCsv(IList<string[]> vacanciesCsv)
+        {
+            var vacancies = new List<Vacancy>();
+
+            while (vacanciesCsv.Count > 0)
+            {
+                var vacancyInfo = Vacancy.CreateFromCsv(vacanciesCsv, LastFetchDate);
+
+                if (vacancyInfo != null)
                 {
-                    loadedVacancies.Add(vacancyInfo);
+                    vacancies.Add(vacancyInfo);
                 }
                 else
                 {
@@ -39,17 +87,20 @@ namespace ReactHH.Services
                 }
             }
 
-            return loadedVacancies;
+            return vacancies;
         }
 
-        public VacanciesDataLoader(string path)
-        {
-            dataSource = new LocalFileSource(path);
-        }
+        public VacanciesDataLoader (
+            IWebHostEnvironment env,
+            IOptions<SourcesConfig> sourceOpts
+        ) {
+            this.env = env;
+            this.sourceOpts = sourceOpts;
 
-        public VacanciesDataLoader(Uri address)
-        {
-            dataSource = new WebDataSource(address);
+            string cacheFileName = env.ContentRootPath
+                                 + '/'
+                                 + sourceOpts.Value.LocalCacheFileName;
+            cacheSource = new LocalFileSource(cacheFileName);
         }
     }
 }

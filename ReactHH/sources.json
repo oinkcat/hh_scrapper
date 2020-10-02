@@ -1,0 +1,4 @@
+﻿{
+  "DataListUrl": "http://192.168.100.50/vacancies.txt",
+  "LocalCacheFileName": "Data/vacancies.txt"
+}

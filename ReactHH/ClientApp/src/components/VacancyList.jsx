@@ -17,9 +17,9 @@ export class VacancyList extends React.Component {
         fetch(DATA_URL)
             .then(resp => resp.json())
             .then(loadedData => {
-                let { vacancies, isFallback } = loadedData;
+                let { vacancies, isOffline } = loadedData;
                 this.setState({ loading: false, vacancies: vacancies });
-                this.props.onLoaded(vacancies, isFallback);
+                this.props.onLoaded(vacancies, isOffline);
             })
             .catch(reason => this.props.onError(reason));
     }
