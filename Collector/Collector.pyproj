@@ -23,6 +23,9 @@
     <Compile Include="hh_report.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="config.json">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="requirements.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

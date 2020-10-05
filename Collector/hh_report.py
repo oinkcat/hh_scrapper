@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import sqlite3
 
 DB_PATH = '/data/hh.db'

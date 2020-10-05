@@ -1,12 +1,15 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 import urllib.request
 import urllib.parse
 import time
 import datetime
 import sqlite3
+import json
 import bs4
 
-DB_PATH = '/data/hh.db'
+CONFIG_PATH = './config.json'
+DB_PATH = './hh.db'
 
 class Vacancy:
 	""" Vacancy basic info """
@@ -47,6 +50,7 @@ def import_tags(db, tags, vacancy_id):
 	
 def import_vacancies(db, date, part):
 	""" Import list of found vacancies """	
+
 	num_new, num_updated = 0, 0
 	
 	for info in part:
@@ -83,6 +87,7 @@ def import_vacancies(db, date, part):
 	
 def save_stats(db, date, n_total, n_new):
 	""" Save statistics """
+
 	cur = db.execute('SELECT * FROM stats WHERE date = ?', (date,))
 	old_stats_row = cur.fetchone()
 	
@@ -95,6 +100,7 @@ def save_stats(db, date, n_total, n_new):
 		
 def save_to_db(vacancies):
 	""" Save parsed info to database """
+
 	db = sqlite3.Connection(DB_PATH)
 	
 	today = datetime.date.today().isoformat()
@@ -105,29 +111,15 @@ def save_to_db(vacancies):
 	
 	print('Total: {0}, new: {1}, updated: {2}'.format(n_total, n_new, n_updated))
 
-URL = 'https://hh.ru/search/vacancy?st=searchVacancy' + \
-	  '&text=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+c%23' + \
-	  '&area=1&salary=&currency_code=RUR&experience=doesNotMatter&schedule=remote' + \
-	  '&order_by=relevance&search_period=&items_on_page=100&no_magic=true'
-	  
-print('Loading...')
-	  
-with urllib.request.urlopen(URL) as list_flo:
-	soup = bs4.BeautifulSoup(list_flo, 'html.parser')
-	  
-# Parse items on page
-print('Parsing...')
+def get_vacancy_info_from_node(node):
+	""" Extract vacancy information from html node """
 
-all_items = soup.find_all('div', class_='vacancy-serp-item')
-parsed_items = []
-
-for item in all_items:
 	# Basic info
-	title_elem = item.find('a', attrs={"data-qa": "vacancy-serp__vacancy-title"})
+	title_elem = node.find('a', attrs={"data-qa": "vacancy-serp__vacancy-title"})
 	link = urllib.parse.splitquery(title_elem['href'])[0]
-	employer_elem = item.find('a', attrs={"data-qa": "vacancy-serp__vacancy-employer"})
-	place_elem = item.find('span', attrs={"data-qa": "vacancy-serp__vacancy-address"})
-	salary_elem = item.find('div', attrs={"data-qa": "vacancy-serp__vacancy-compensation"})
+	employer_elem = node.find('a', attrs={"data-qa": "vacancy-serp__vacancy-employer"})
+	place_elem = node.find('span', attrs={"data-qa": "vacancy-serp__vacancy-address"})
+	salary_elem = node.find('span', attrs={"data-qa": "vacancy-serp__vacancy-compensation"})
 
 	# Details
 	details_flo = urllib.request.urlopen(title_elem['href'])
@@ -140,9 +132,50 @@ for item in all_items:
 	vacancy.salary = salary_elem.text if salary_elem is not None else '?'
 	vacancy.tags = list(map(lambda t: t.text, tags))
 
-	parsed_items.append(vacancy)	
-	time.sleep(0.1)
+	return vacancy
+
+
+def format_query_url():
+	""" Construct query URL """
+
+	with open(CONFIG_PATH, encoding='utf-8') as f_config:
+		config = json.load(f_config)
+		
+		qs_params = {
+			'text': config['Query'],
+			'area': 1,
+			'salary': '',
+			'currency_code': 'RUR',
+			'experience': 'doesNotMatter',
+			'schedule': 'remote',
+			'order_by': 'relevance',
+			'search_period': '',
+			'items_on_page': 100,
+			'no_magic': 'true'
+		}
+		qs = urllib.parse.urlencode(qs_params)
+
+	return 'https://hh.ru/search/vacancy?st=searchVacancy&' + qs
+
+def scrap_vacancies():
+	""" Load, parse and save vacancy information from hh.ru """
+
+	# Load query results
+	print('Loading...')
+	url = format_query_url()
+	  
+	with urllib.request.urlopen(url) as list_flo:
+		soup = bs4.BeautifulSoup(list_flo, 'html.parser')
+
+	# Parse items on page
+	print('Parsing...')
+
+	vacancy_nodes = soup.find_all('div', class_='vacancy-serp-item')
+	parsed_items = list(map(get_vacancy_info_from_node, vacancy_nodes))
 	
-# Save to database
-print('Saving...')
-save_to_db(parsed_items)
+	# Save to database
+	print('Saving...')
+	save_to_db(parsed_items)
+
+if __name__ == '__main__':
+	scrap_vacancies()
