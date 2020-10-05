@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Collector", "Collector\Collector.pyproj", "{9DFFF53C-D376-41E6-B7A3-1EC88C193FE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,8 @@ Global
 		{3DBA94C1-A898-4159-BF41-BBA1B8EA5525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DBA94C1-A898-4159-BF41-BBA1B8EA5525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DBA94C1-A898-4159-BF41-BBA1B8EA5525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFFF53C-D376-41E6-B7A3-1EC88C193FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFFF53C-D376-41E6-B7A3-1EC88C193FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
