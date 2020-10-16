@@ -44,7 +44,7 @@ export class Filters extends React.Component {
     }
 
     render() {
-        const categories = ['All', 'Active', 'Inactive'];
+        const categories = ['Все', 'Активные', 'Закрытые'];
 
         return this.state.initialized && (
             <div className="filters-block">
@@ -69,7 +69,7 @@ export class Filters extends React.Component {
 
                 {this.props.localFallback && (
                     <span className="fall-back">
-                        Offline data used!
+                        Оффлайн!
                     </span>
                 )}
             </div>

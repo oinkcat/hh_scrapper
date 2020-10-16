@@ -6,7 +6,7 @@ export function Loader() {
             <div className="icon">
                 hh.ru
             </div>
-            <span>Loading data...</span>
+            <span>Загрузка данных...</span>
         </div>
     );
 }

@@ -52,7 +52,7 @@ export default class App extends React.Component {
     renderError() {
         return (
             <h4>
-                Failed to fetch info: {this.state.error.toString()}!
+                Ошибка получения данных: {this.state.error.toString()}!
             </h4>
         );
     }
