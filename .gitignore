@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Collector/data_sets/vacancies.txt
+/Collector/data_sets/vacancies_stats.txt

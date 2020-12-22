@@ -7,6 +7,7 @@ import datetime
 import sqlite3
 import json
 import bs4
+import hh_db_utils
 
 CONFIG_PATH = './config.json'
 DB_PATH = './hh.db'
@@ -34,6 +35,8 @@ class Vacancy:
 
 def scrap_vacancies():
 	""" Load, parse and save vacancy information from hh.ru """
+
+	hh_db_utils.ensure_db_created(DB_PATH)
 
 	# Load query results
 	print('Loading...')
@@ -87,15 +90,15 @@ def get_vacancy_info_from_node(node):
 	salary_elem = node.find('span', attrs={"data-qa": "vacancy-serp__vacancy-compensation"})
 
 	# Details
-	# details_flo = urllib.request.urlopen(title_elem['href'])
-	# details_soup = bs4.BeautifulSoup(details_flo, 'html.parser')
-	# tags = details_soup.find_all('span', class_="bloko-tag__section_text")
+	details_flo = urllib.request.urlopen(title_elem['href'])
+	details_soup = bs4.BeautifulSoup(details_flo, 'html.parser')
+	tags = details_soup.find_all('span', class_="bloko-tag__section_text")
 
 	vacancy = Vacancy(link, title_elem.text)
 	vacancy.employer = employer_elem.text if employer_elem is not None else '?'
 	vacancy.place = place_elem.text
 	vacancy.salary = salary_elem.text if salary_elem is not None else '?'
-	vacancy.tags = ['test'] # list(map(lambda t: t.text, tags))
+	vacancy.tags = list(map(lambda t: t.text, tags))
 
 	return vacancy
 		
@@ -108,7 +111,7 @@ def save_to_db(vacancies):
 	today = datetime.date.today().isoformat()
 	n_new, n_updated = import_vacancies(db, today, vacancies)	
 	
-	n_total = len(parsed_items)
+	n_total = n_new + n_updated
 	save_stats(db, today, n_total, n_new)
 	
 	print('Total: {0}, new: {1}, updated: {2}'.format(n_total, n_new, n_updated))

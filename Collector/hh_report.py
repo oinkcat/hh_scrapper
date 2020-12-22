@@ -29,8 +29,9 @@ def make_report():
     with open(OUT_FILE_STATS, 'w') as out_file:
     	out_file.writelines(tsv_data_s)
     
-try:
-	make_report()
-	print('Report done')
-except:
-    print('ERROR OCCURED!')
+if __name__ == '__main__':
+    try:
+        make_report()
+        print('Report done')
+    except:
+        print('ERROR OCCURED!')
