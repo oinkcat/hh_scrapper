@@ -9,6 +9,7 @@ import json
 import bs4
 import hh_db_utils
 
+HOST_NAME = 'https://hh.ru'
 CONFIG_PATH = './config.json'
 DB_PATH = './hh.db'
 
@@ -39,17 +40,30 @@ def scrap_vacancies():
 	hh_db_utils.ensure_db_created(DB_PATH)
 
 	# Load query results
-	print('Loading...')
+	page_num = 1
 	url = format_query_url()
-	  
-	with urllib.request.urlopen(url) as list_flo:
-		soup = bs4.BeautifulSoup(list_flo, 'html.parser')
+	parsed_items = []
 
-	# Parse items on page
-	print('Parsing...')
+	while url is not None:
+		print('Loading page %d...' % page_num)
 
-	vacancy_nodes = soup.find_all('div', class_='vacancy-serp-item')
-	parsed_items = list(map(get_vacancy_info_from_node, vacancy_nodes))
+		with urllib.request.urlopen(url) as list_flo:
+			soup = bs4.BeautifulSoup(list_flo, 'html.parser')
+
+		# Parse items on page
+		print('Parsing...')
+
+		vacancy_nodes = soup.find_all('div', class_='vacancy-serp-item')
+		page_items = list(map(get_vacancy_info_from_node, vacancy_nodes))
+		parsed_items.extend(page_items)
+
+		next_page_link = soup.find('a', { 'data-qa': 'pager-next' })
+
+		url = '%s/%s' % (HOST_NAME, next_page_link['href']) \
+			if next_page_link is not None \
+			else None
+
+		page_num += 1
 	
 	# Save to database
 	print('Saving...')
@@ -76,7 +90,7 @@ def format_query_url():
 		}
 		qs = urllib.parse.urlencode(qs_params)
 
-	return 'https://hh.ru/search/vacancy?st=searchVacancy&' + qs
+	return '%s/search/vacancy?st=searchVacancy&%s' % (HOST_NAME, qs)
 
 
 def get_vacancy_info_from_node(node):

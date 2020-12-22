@@ -12,10 +12,10 @@ def ensure_db_created(db_path):
     cur = db.execute("SELECT 1 FROM sqlite_master"
                      "  WHERE type = 'table' AND name = 'vacancies'")
     if cur.fetchone() is not None:
-        print(f'Database {DEFAULT_DB_PATH} already exists')
+        print('Database %s already exists' % DEFAULT_DB_PATH)
     else:
         __create_db_tables(db)
-        print(f'Database {DEFAULT_DB_PATH} created')
+        print('Database %s created' % DEFAULT_DB_PATH)
 
     db.close()
 
