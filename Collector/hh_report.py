@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import sqlite3
 
-DB_PATH = '/data/hh.db'
-OUT_FILE_VACANCIES = '/var/www/data_sets/vacancies.txt'
-OUT_FILE_STATS = '/var/www/data_sets/vacancies_stats.txt'
+DB_PATH = './hh.db'
+OUT_FILE_VACANCIES = './data_sets/vacancies.txt'
+OUT_FILE_STATS = './data_sets/vacancies_stats.txt'
 
 QUERY_VACANCIES = '''SELECT v.*, t.name
   FROM vacancies AS v

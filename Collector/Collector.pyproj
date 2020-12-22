@@ -26,6 +26,7 @@
     <Content Include="config.json">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="hh_db.sql" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

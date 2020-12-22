@@ -30,24 +30,90 @@ class Vacancy:
 			self.salary,
 			', '.join(self.tags)
 		])
-		
-def import_tags(db, tags, vacancy_id):
-	""" Import tags to its' table """
+
+
+def scrap_vacancies():
+	""" Load, parse and save vacancy information from hh.ru """
+
+	# Load query results
+	print('Loading...')
+	url = format_query_url()
+	  
+	with urllib.request.urlopen(url) as list_flo:
+		soup = bs4.BeautifulSoup(list_flo, 'html.parser')
+
+	# Parse items on page
+	print('Parsing...')
+
+	vacancy_nodes = soup.find_all('div', class_='vacancy-serp-item')
+	parsed_items = list(map(get_vacancy_info_from_node, vacancy_nodes))
 	
-	for tag in tags:
-		# Find tag with name
-		cur = db.execute('SELECT id FROM tags WHERE name = ?', (tag,))
-		id_row = cur.fetchone()
+	# Save to database
+	print('Saving...')
+	save_to_db(parsed_items)
+
+
+def format_query_url():
+	""" Construct query URL """
+
+	with open(CONFIG_PATH, encoding='utf-8') as f_config:
+		config = json.load(f_config)
 		
-		if id_row is None:
-			# Tag not exists - insert
-			cur = db.execute('INSERT INTO tags (name) VALUES (?)', (tag,))
-			id_row = (cur.lastrowid,)
-			
-		# Link tag with vacancy
-		db.execute('INSERT INTO vacancies_tags (vacancy_id, tag_id) ' +
-				   'VALUES (?, ?)', (vacancy_id, id_row[0]))
+		qs_params = {
+			'text': config['Query'],
+			'area': 1,
+			'salary': '',
+			'currency_code': 'RUR',
+			'experience': 'doesNotMatter',
+			'schedule': 'remote',
+			'order_by': 'relevance',
+			'search_period': '',
+			'items_on_page': 100,
+			'no_magic': 'true'
+		}
+		qs = urllib.parse.urlencode(qs_params)
+
+	return 'https://hh.ru/search/vacancy?st=searchVacancy&' + qs
+
+
+def get_vacancy_info_from_node(node):
+	""" Extract vacancy information from html node """
+
+	# Basic info
+	title_elem = node.find('a', attrs={"data-qa": "vacancy-serp__vacancy-title"})
+	link = urllib.parse.splitquery(title_elem['href'])[0]
+	employer_elem = node.find('a', attrs={"data-qa": "vacancy-serp__vacancy-employer"})
+	place_elem = node.find('span', attrs={"data-qa": "vacancy-serp__vacancy-address"})
+	salary_elem = node.find('span', attrs={"data-qa": "vacancy-serp__vacancy-compensation"})
+
+	# Details
+	# details_flo = urllib.request.urlopen(title_elem['href'])
+	# details_soup = bs4.BeautifulSoup(details_flo, 'html.parser')
+	# tags = details_soup.find_all('span', class_="bloko-tag__section_text")
+
+	vacancy = Vacancy(link, title_elem.text)
+	vacancy.employer = employer_elem.text if employer_elem is not None else '?'
+	vacancy.place = place_elem.text
+	vacancy.salary = salary_elem.text if salary_elem is not None else '?'
+	vacancy.tags = ['test'] # list(map(lambda t: t.text, tags))
+
+	return vacancy
+		
+
+def save_to_db(vacancies):
+	""" Save parsed info to database """
+
+	db = sqlite3.Connection(DB_PATH)
 	
+	today = datetime.date.today().isoformat()
+	n_new, n_updated = import_vacancies(db, today, vacancies)	
+	
+	n_total = len(parsed_items)
+	save_stats(db, today, n_total, n_new)
+	
+	print('Total: {0}, new: {1}, updated: {2}'.format(n_total, n_new, n_updated))
+	
+
 def import_vacancies(db, date, part):
 	""" Import list of found vacancies """	
 
@@ -84,7 +150,26 @@ def import_vacancies(db, date, part):
 	db.commit()
 	
 	return num_new, num_updated
+		
+
+def import_tags(db, tags, vacancy_id):
+	""" Import tags to its' table """
 	
+	for tag in tags:
+		# Find tag with name
+		cur = db.execute('SELECT id FROM tags WHERE name = ?', (tag,))
+		id_row = cur.fetchone()
+		
+		if id_row is None:
+			# Tag not exists - insert
+			cur = db.execute('INSERT INTO tags (name) VALUES (?)', (tag,))
+			id_row = (cur.lastrowid,)
+			
+		# Link tag with vacancy
+		db.execute('INSERT INTO vacancies_tags (vacancy_id, tag_id) ' +
+				   'VALUES (?, ?)', (vacancy_id, id_row[0]))
+	
+
 def save_stats(db, date, n_total, n_new):
 	""" Save statistics """
 
@@ -97,85 +182,6 @@ def save_stats(db, date, n_total, n_new):
 	
 	db.execute('REPLACE INTO stats VALUES (?, ?, ?)', (date, n_total, today_new))
 	db.commit()
-		
-def save_to_db(vacancies):
-	""" Save parsed info to database """
-
-	db = sqlite3.Connection(DB_PATH)
-	
-	today = datetime.date.today().isoformat()
-	n_new, n_updated = import_vacancies(db, today, vacancies)	
-	
-	n_total = len(parsed_items)
-	save_stats(db, today, n_total, n_new)
-	
-	print('Total: {0}, new: {1}, updated: {2}'.format(n_total, n_new, n_updated))
-
-def get_vacancy_info_from_node(node):
-	""" Extract vacancy information from html node """
-
-	# Basic info
-	title_elem = node.find('a', attrs={"data-qa": "vacancy-serp__vacancy-title"})
-	link = urllib.parse.splitquery(title_elem['href'])[0]
-	employer_elem = node.find('a', attrs={"data-qa": "vacancy-serp__vacancy-employer"})
-	place_elem = node.find('span', attrs={"data-qa": "vacancy-serp__vacancy-address"})
-	salary_elem = node.find('span', attrs={"data-qa": "vacancy-serp__vacancy-compensation"})
-
-	# Details
-	details_flo = urllib.request.urlopen(title_elem['href'])
-	details_soup = bs4.BeautifulSoup(details_flo, 'html.parser')
-	tags = details_soup.find_all('span', class_="bloko-tag__section_text")
-
-	vacancy = Vacancy(link, title_elem.text)
-	vacancy.employer = employer_elem.text if employer_elem is not None else '?'
-	vacancy.place = place_elem.text
-	vacancy.salary = salary_elem.text if salary_elem is not None else '?'
-	vacancy.tags = list(map(lambda t: t.text, tags))
-
-	return vacancy
-
-
-def format_query_url():
-	""" Construct query URL """
-
-	with open(CONFIG_PATH, encoding='utf-8') as f_config:
-		config = json.load(f_config)
-		
-		qs_params = {
-			'text': config['Query'],
-			'area': 1,
-			'salary': '',
-			'currency_code': 'RUR',
-			'experience': 'doesNotMatter',
-			'schedule': 'remote',
-			'order_by': 'relevance',
-			'search_period': '',
-			'items_on_page': 100,
-			'no_magic': 'true'
-		}
-		qs = urllib.parse.urlencode(qs_params)
-
-	return 'https://hh.ru/search/vacancy?st=searchVacancy&' + qs
-
-def scrap_vacancies():
-	""" Load, parse and save vacancy information from hh.ru """
-
-	# Load query results
-	print('Loading...')
-	url = format_query_url()
-	  
-	with urllib.request.urlopen(url) as list_flo:
-		soup = bs4.BeautifulSoup(list_flo, 'html.parser')
-
-	# Parse items on page
-	print('Parsing...')
-
-	vacancy_nodes = soup.find_all('div', class_='vacancy-serp-item')
-	parsed_items = list(map(get_vacancy_info_from_node, vacancy_nodes))
-	
-	# Save to database
-	print('Saving...')
-	save_to_db(parsed_items)
 
 if __name__ == '__main__':
 	scrap_vacancies()
